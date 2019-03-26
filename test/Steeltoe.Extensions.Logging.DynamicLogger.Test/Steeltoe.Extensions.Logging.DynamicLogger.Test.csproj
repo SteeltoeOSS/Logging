@@ -9,7 +9,7 @@
     <AssemblyName>Steeltoe.Extensions.Logging.CloudFoundry.Test</AssemblyName>
     <PackageId>Steeltoe.Extensions.Logging.CloudFoundry.Test</PackageId>
     <PackageTags>Spring Cloud;Logging;Management;Monitoring</PackageTags>
-    <PackageProjectUrl>http://steeltoe.io</PackageProjectUrl>
+    <PackageProjectUrl>https://steeltoe.io</PackageProjectUrl>
     <PackageLicenseUrl>http://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
   </PropertyGroup>
 
